@@ -26,4 +26,4 @@ index_tertinggi=ratarata.index(max(ratarata))
 index_terendah=ratarata.index(min(ratarata))
 
 print("Nilai tertinggi didapatkan oleh: ",mahasiswa[index_tertinggi], ", dengan rata-rata: ",ratarata[index_tertinggi])
-print("Nilai tertinggi didapatkan oleh: ",mahasiswa[index_terendah], ", dengan rata-rata: ",ratarata[index_terendah])
+print("Nilai terendah didapatkan oleh: ",mahasiswa[index_terendah], ", dengan rata-rata: ",ratarata[index_terendah])
